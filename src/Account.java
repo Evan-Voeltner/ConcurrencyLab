@@ -34,5 +34,6 @@ public class Account {
         else {
             System.out.println("Insufficient funds for " + threadName + ". Total withdrawn: " + this.amountWithdrawn);
         }
+        
     }
 }
